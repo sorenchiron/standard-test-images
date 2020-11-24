@@ -6,6 +6,6 @@
 
 ![](5-test-images/house.tiff)
 
-![](5-test-images/mandrill baboon.tiff)
+![](5-test-images/mandrill-baboon.tiff)
 
 ![](5-test-images/peppers.tiff)
